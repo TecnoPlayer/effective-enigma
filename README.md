@@ -1,3 +1,4 @@
 # effective-enigma
-De prueba
+De prueba.
+
 Esta es una edición forzosa.
